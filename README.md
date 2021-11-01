@@ -20,25 +20,25 @@
    ![3](https://user-images.githubusercontent.com/92698873/139638030-2c4b1b98-6e1e-4cde-8557-8b6aba24e301.PNG)
 
 ### Challenges and Difficulties Encountered
-   I was unable to create a pivot table and I overcame the difficulty by understanding the table, it's fields and connecting the requirement.
+   I was unable to create a pivot table and I overcame the difficulty by understanding the table, its fields and connecting the requirement.
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
-    - From the chart it is evident that April, May, June and July have more successful campaign. 
-    - Staring with April the the slope take a positive curve, May being a peak of success, starting from July it depreciates. 
-    - During the month of May, out of 166 campaigns, 111 has been successful and in the month of June, out of 153 campaigns, 100 have been successful. 
-    - The months of October, November and December shows the most failure rates in the campaign. 
+- What are two conclusions you can draw about the Outcomes-based on Launch Date?
+    - From the chart, it is evident that April, May, June, and July have a more successful campaign. 
+    - Staring with April the slope takes a positive curve, May being a peak of success, starting from July it depreciates. 
+    - During May, out of 166 campaigns, 111 has been successful and in June, out of 153 campaigns, 100 have been successful. 
+    - The months of October, November, and December shows the most failure rates in the campaign. 
 
-- What can you conclude about the Outcomes based on Goals?
-    - From the chart, we can recognise that goals with ranges 1000 to 4999 and less than 1000 has the most successful percentage of 76% and 73% respectively. 
-    - The ranges 25000 to 24999, 30000 to 34999, 45000 to 49000 and greater than 50000 has the most failure percentage of 20%, 27%, 0% and 13% respectively. 
+- What can you conclude about the Outcomes-based on Goals?
+    - From the chart, we can recognize that goals with ranges 1000 to 4999 and less than 1000 have the most successful percentage of 76% and 73% respectively. 
+    - The ranges 25000 to 24999, 30000 to 34999, 45000 to 49000, and greater than 50000 has the most failure percentage of 20%, 27%, 0%, and 13% respectively. 
 
 - What are some limitations of this dataset?
-    - In Theater Outcomes dataset, the data is missing the percentages of success and failure. The success and failure percentage can help in analysing the decisions and data outcomes. 
-    - In Outcomes Based on Goals dataset there is inconsistency in the distribution of data accross the goals. For example, in the range 45000 to 49999 there is only one data recorded and in the range 1000 to 4999 there are total 534 projects recorded. Therefore we need more project data for the goals which have less number of Total Projects. 
+    - In Theater Outcomes dataset, the data is missing the percentages of success and failure. The success and failure percentage can help in analyzing the decisions and data outcomes. 
+    - In the Outcomes Based on Goals dataset there is inconsistency in the distribution of data across the goals. For example, in the range 45000 to 49999 there is only one data recorded and in the range 1000 to 4999 there are a total of 534 projects recorded. Therefore we need more project data for the goals which have less number Total Projects. 
 
 - What are some other possible tables and/or graphs that we could create?
     - In the Theater Outcomes Dataset, a table based on year can be created to show the distribution of data based on each year. 
-    - In the Outcome Based on Goals, a Stacked Column chart can be created to help in analysing the data. 
+    - In the Outcome Based on Goals, a Stacked Column chart can be created to help in analyzing the data. 
     
