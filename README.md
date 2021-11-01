@@ -20,7 +20,7 @@
    ![3](https://user-images.githubusercontent.com/92698873/139638030-2c4b1b98-6e1e-4cde-8557-8b6aba24e301.PNG)
 
 ### Challenges and Difficulties Encountered
-   I was unable to create a pivot table and I overcame the difficulty by understanding the table, its fields and connecting the requirement.
+   I was having hard time to create a pivot table and I overcame the difficulty by understanding the table, its fields and connecting the requirement.
 
 ## Results
 
@@ -31,7 +31,7 @@
     - The months of October, November, and December shows the most failure rates in the campaign. 
 
 - What can you conclude about the Outcomes-based on Goals?
-    - From the chart, we can recognize that goals with ranges 1000 to 4999 and less than 1000 have the most successful percentage of 76% and 73% respectively. 
+    - From the chart, we can recognize that the plays with goals - ranges 1000 to 4999 and less than 1000 have the most successful percentage of 76% and 73% respectively. 
     - The ranges 25000 to 24999, 30000 to 34999, 45000 to 49000, and greater than 50000 has the most failure percentage of 20%, 27%, 0%, and 13% respectively. 
 
 - What are some limitations of this dataset?
